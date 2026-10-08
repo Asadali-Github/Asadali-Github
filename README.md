@@ -13,7 +13,7 @@ MSc Data Science candidate at the **University of Essex** (graduating Oct 2026),
 
 ### Toolbox
 
-`Python` · `SQL` · `pandas` · `NumPy` · `scikit-learn` · `PyTorch` · `LLM agents` · `Oracle Cloud` · `Streamlit` · `Docker` · `Git`
+`Python` · `SQL` · `pandas` · `NumPy` · `scikit-learn` · `LLM agents` · `Oracle Cloud` · `Streamlit` · `Docker` · `Git`
 
 ### Beyond the keyboard
 
